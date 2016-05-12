@@ -25,8 +25,7 @@
             ast: false,
             compact: true,
             comments: false,
-            presets: ['es2015', 'react'],
-            plugins: ['transform-react-jsx']
+            presets: ['es2015', 'react']
           }).code;
         }
       };
